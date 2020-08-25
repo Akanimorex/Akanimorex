@@ -1,10 +1,9 @@
-## Hello There👋 , I'm Akanimo
+## Hello There👋
 
 
 
 
-
-I am a young, enthusiastic front-end developer passionate about how the web works and the solutions it can offer to my society's problems. I write Javascript, HTML , CSS and i dabble in Javascript frameworks too 😀 .I love solving problems using my skills and delivering finished pixel-perfect web products which satisfy clients. I love contributing to open-source too ⚡ .
+I am a developer passionate about how the web works and the solutions it can offer to my society's problems. I write Javascript, HTML , CSS and Javascript.I love solving problems using my skills and delivering finished pixel-perfect web products which satisfy clients. I love contributing to open-source too ⚡ .
 
 When i'm not working on a project, i catch fun by playing video or mobile games and having a good time with my friends
 <!--
