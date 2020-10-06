@@ -1,9 +1,13 @@
-## Hello There👋
+const Akanimo = {
+  size:{
+    height:'well...",
+    broadShouldered:true
+  },
+  hobbies:['travelling','playing games','meeting new friends'],
+ interests:"all things web and tech",
+ strengths:"javascript,ux understanding,ui implementations",
 
-
-
-
-I am a developer passionate about how the web works and the solutions it can offer to my society's problems. I write Javascript, HTML , CSS and Javascript.I love solving problems using my skills and delivering finished pixel-perfect web products which satisfy clients. I love contributing to open-source too ⚡.
+}
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
