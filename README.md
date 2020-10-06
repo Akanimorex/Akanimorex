@@ -1,13 +1,4 @@
-const Akanimo = {
-  size:{
-    height:'well...",
-    broadShouldered:true
-  },
-  hobbies:['travelling','playing games','meeting new friends'],
- interests:"all things web and tech",
- strengths:"javascript,ux understanding,ui implementations",
-
-}
+##Hey There 
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
