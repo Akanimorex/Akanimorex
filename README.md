@@ -1,5 +1,9 @@
 ### Bio Loading....
 
+Hey there, Akanimo here.
+Frontend developer with a thing for javascript.
+I am open to gigs and hires
+
 
 
 <!--
