@@ -1,4 +1,4 @@
-### Bio Loading....
+
 
 Hey there, Akanimo here.
 Frontend developer with a thing for javascript.
