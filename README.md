@@ -1,13 +1,13 @@
 
 
-<h1>Hey there, Akanimo here.</h1>
+<h1>Hey there,👋 Akanimo here.</h1>
 
 
 I am a Frontend Engineer, transitioning to a blockchain developer
 
 
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently BUIDLing , as they say.
 - 🌱 I’m currently learning Solidity
 - 👯 I’m looking for Frontend Engineer roles with projects to help in building their webapps and dapps 
 - 🤔 I’m looking for help with more communities in the blockchain development space. If you are learning too, hit me up lets BUIDL.
