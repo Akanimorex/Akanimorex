@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **akanimoime2016@gmail.com**
 
-- ⚡ Fun fact **I love working with people, building projects and on my free time i enjoy playing FIFA**
+- ⚡ Fun fact **I love working with people, building projects and on my free time i enjoy playing sports**
 
 <h3 align="left">Connect with me:</h3>
 
