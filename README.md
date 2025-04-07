@@ -1,10 +1,10 @@
 
 
-<h1 align="center">Hi 👋, I'm Akanimo Rex</h1>
-<h3 align="center">Am a software developer  with experience using Javascript.</h3>
+<h1 align="center"> Akanimo Rex</h1>
+<h3 align="center">Blockchain Developer</h3>
 
 
-- 💬 Ask me about **Reactjs, Typescript , Javascript and NodeJs**
+- 💬  **Solidity, Rust Reactjs, Typescript , Javascript and NodeJs**
 
 - 📫 How to reach me **akanimoime2016@gmail.com**
 
