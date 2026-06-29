@@ -1,10 +1,10 @@
 
 
 <h1 align="center"> Akanimo Rex</h1>
-<h3 align="center">Blockchain Developer</h3>
+<h3 align="center">Software  Engineer</h3>
 
 
-- 💬  **Solidity, Rust, Reactjs, Typescript , Javascript and NodeJs**
+- 💬  **Python, Solidity, Rust, Reactjs, Typescript , Javascript and NodeJs**
 
 - 📫 How to reach me **akanimoime2016@gmail.com**
 
