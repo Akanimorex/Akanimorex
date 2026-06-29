@@ -1,6 +1,6 @@
 
 
-<h1 align="center"> Akanimo Rex</h1>
+<h1 align="center"> Akanimo Akpan</h1>
 <h3 align="center">Software  Engineer</h3>
 
 
